@@ -13,6 +13,6 @@
 3. Работа с FLex.  
 4. Работа с Grid.  
   
-  Ссылка на GitHub Pages []
+  Ссылка на GitHub Pages [https://golovan132.github.io/russian-travel/]
 
 
