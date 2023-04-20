@@ -3,6 +3,8 @@
     padding: 0;
     grid-area: links;
     grid-gap: 0;
+    list-style: none;
+    display: inline-flex;
 }
 
 @media screen and (max-width: 767px) {
@@ -10,5 +12,8 @@
     .footer__links {
         display: flex;
         flex-direction: column;
+        justify-content: space-around;
+        min-height: 248px;
+        margin-bottom: 48px;
     }
 }

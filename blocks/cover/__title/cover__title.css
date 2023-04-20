@@ -2,7 +2,6 @@
     margin: 0;
     padding: 0;
     max-width: 560px;
-    max-height: 152px;
     font-style: normal;
     font-weight: 900;
     font-size: 72px;
@@ -18,10 +17,8 @@
 
     .cover__title {
         max-width: 370px;
-        min-height: 70px;
         font-size: 52px;
         line-height: 56px;
-        flex-wrap: wrap;
     }
 }
 
@@ -29,9 +26,7 @@
 
     .cover__title {
         max-width: 288px;
-        min-height: 70px;
         font-size: 32px;
         line-height: 35px;
-        flex-wrap: wrap;
     }
 }

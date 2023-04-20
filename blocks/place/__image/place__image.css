@@ -28,7 +28,6 @@
     .place__image {
         max-width: 320px;
         max-height: 320px;
-        grid-area: image;
         margin-left: 16px;
     }
 }

@@ -7,9 +7,6 @@
     line-height: 28px;
     color: #fff;
     display: flex;
-}
-
-.header__lang-link:nth-child(2) {
     text-decoration: none;
 }
 

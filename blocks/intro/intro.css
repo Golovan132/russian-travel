@@ -3,7 +3,7 @@
     padding: 0;
     margin-top: 92px;
     max-width: 690px;
-    max-height: 429px;
+    min-height: 429px;
     margin-left: 148px;
     margin-bottom: 92px;
 }
@@ -30,7 +30,6 @@
     .intro {
         margin-left: 16px;
         margin-right: 16px;
-        max-height: 754px;
         margin-top: 64px;
         margin-bottom: 64px;
     }
