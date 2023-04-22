@@ -1,39 +1,38 @@
 .footer {
-    margin: 0;
     padding: 0;
     background-color: #2A2C2F;
     max-width: 1184px;
-    margin-left: 48px;
-    display: grid;
-    grid-template-columns: 480px 1fr;
-    grid-template-areas:
-        "links copyright";
+    display: flex;
+    margin: auto;
     padding-bottom: 24px;
-    list-style: none;
+    justify-content: space-between;
+    align-items: center;
 }
+
 
 @media screen and (max-width: 1279px) {
 
     .footer {
         margin-right: 48px;
+        margin-left: 48px;
+
     }
 }
 
 @media screen and (max-width: 1023px) {
     .footer {
-        margin-left: 24px;
         margin-right: 24px;
-        min-height: 18px;
+        margin-left: 24px;
     }
 }
 
 @media screen and (max-width: 767px) {
 
     .footer {
-        display: flex;
         flex-direction: column;
         flex-wrap: wrap;
         max-width: 196px;
         margin-left: 16px;
+        margin-right: 16px;
     }
 }
