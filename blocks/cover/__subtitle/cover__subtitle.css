@@ -10,7 +10,6 @@
     text-align: center;
     z-index: 2;
     max-width: 360px;
-    max-height: 66px;
 }
 
 @media screen and (max-width: 767px) {
@@ -20,5 +19,5 @@
         font-size: 14px;
         line-height: 16px;
         margin-top: 16px;
-    }  
+    }
 }
